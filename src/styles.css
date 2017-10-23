@@ -1,0 +1,17 @@
+/* You can add global styles to this file, and also import other style files */
+.main-content{
+  margin-top: 20%;
+}
+
+.inline > li{
+  display: inline-block;
+  margin-right: 10px;
+}
+
+.inline > li:last-child{
+  margin-right: 0px;
+}
+
+*{
+  font-family:Raleway, sans-serif;
+}
